@@ -4,7 +4,7 @@ This repository contains a template document used to contain internal project fi
 
 ### Usage ###
 
-Just download the [Microsoft Excel document](#) and fill it in:
+Just download the [Microsoft Excel document](https://github.com/netsecgroupcnr/internal-project-financial-report/blob/master/ResearchProject_PersonnelBudget.xlsx) and fill it in:
 - ![#ffc7ce](https://via.placeholder.com/15/ffc7ce/000000?text=+) red cells have to be filled in
 - ![#ffeb9c](https://via.placeholder.com/15/ffeb9c/000000?text=+) yellow cells are not mandatory to be filled in
 
