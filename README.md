@@ -2,6 +2,13 @@
 
 This repository contains a template document used to contain internal project financial information.
 
+### Limits ###
+
+Following project limits are applied:
+- maximum duration is 48 months
+- maximum number of persons working on the project is 20
+- maximum number of internal Work Packages is 20
+
 ### Usage ###
 
 Just download the [Microsoft Excel document](https://github.com/netsecgroupcnr/internal-project-financial-report/blob/master/ResearchProject_PersonnelBudget.xlsx) and fill it in:
