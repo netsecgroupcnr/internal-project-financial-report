@@ -6,7 +6,7 @@ This repository contains a template document used to contain internal project fi
 
 Following project limits are applied:
 - maximum duration is 48 months
-- maximum number of persons working on the project is 20
+- maximum number of persons working on the project is 21
 - maximum number of internal Work Packages is 20
 
 ### Usage ###
