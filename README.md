@@ -31,9 +31,11 @@ The program is licensed under the [Creative Commons Attribution-NonCommercial-Sh
   * Enrico Cambiaso
 * Development:
   * Enrico Cambiaso
-* Support:
+* Suggestions on how to improve the document:
   * Maurizio Aiello
   * Ivan Vaccari
+  * Paolo Ravazzani
+  * Gabriella Tognola
 
 ### Contacts ###
 
