@@ -5,7 +5,7 @@ This repository contains a template document used to contain internal project fi
 ### Limits ###
 
 Following project limits are applied:
-- maximum duration is 48 months
+- maximum duration is 72 months, distributed on at most 6 solar years
 - maximum number of persons working on the project is 21
 - maximum number of internal Work Packages is 20
 
@@ -39,4 +39,4 @@ The program is licensed under the [Creative Commons Attribution-NonCommercial-Sh
 
 ### Contacts ###
 
-This program is implemented by the [NetSec group of CNR-IEIIT](http://www.netsec.ieiit.cnr.it).
+This program is implemented by the [Network Security group](https://www.ieiit.cnr.it/expertise/network-security) of [CNR-IEIIT](http://www.ieiit.cnr.it).
